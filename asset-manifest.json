@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ask.it/static/css/main.56b75bf0.css",
+    "main.js": "/ask.it/static/js/main.5bde9af0.js",
+    "index.html": "/ask.it/index.html",
+    "main.56b75bf0.css.map": "/ask.it/static/css/main.56b75bf0.css.map",
+    "main.5bde9af0.js.map": "/ask.it/static/js/main.5bde9af0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b75bf0.css",
+    "static/js/main.5bde9af0.js"
+  ]
+}
